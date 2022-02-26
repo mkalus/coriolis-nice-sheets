@@ -10,7 +10,7 @@
     }
   ],
   "version": "0.1.0",
-  "minimumCoreVersion": "0.9.0",
+  "minimumCoreVersion": "0.8.9",
   "compatibleCoreVersion": "9",
   "scripts": [
     "scripts/hooks.js"
