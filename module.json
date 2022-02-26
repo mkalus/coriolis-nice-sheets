@@ -9,13 +9,13 @@
       "discord": "ronix#4683"
     }
   ],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minimumCoreVersion": "0.8.9",
   "compatibleCoreVersion": "9",
   "scripts": [
     "scripts/hooks.js"
   ],
   "url": "https://github.com/mkalus/coriolis-nice-sheets.git",
-  "manifest": "https://github.com/mkalus/coriolis-nice-sheets/releases/download/0.1.0/module.json",
-  "download": "https://github.com/mkalus/coriolis-nice-sheets/releases/download/0.1.0/coriolis-nice-sheets_0.1.0.zip"
+  "manifest": "https://github.com/mkalus/coriolis-nice-sheets/releases/download/0.1.1/module.json",
+  "download": "https://github.com/mkalus/coriolis-nice-sheets/releases/download/0.1.1/coriolis-nice-sheets_0.1.1.zip"
 }
