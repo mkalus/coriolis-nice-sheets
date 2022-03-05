@@ -15,6 +15,9 @@
   "scripts": [
     "scripts/hooks.js"
   ],
+  "styles": [
+    "css/coriolis-nice-sheets.css"
+  ],
   "url": "https://github.com/mkalus/coriolis-nice-sheets.git",
   "manifest": "https://github.com/mkalus/coriolis-nice-sheets/releases/download/0.1.1/module.json",
   "download": "https://github.com/mkalus/coriolis-nice-sheets/releases/download/0.1.1/coriolis-nice-sheets_0.1.1.zip"
